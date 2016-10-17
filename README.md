@@ -70,7 +70,7 @@ Once it is running, you should be able click any of the following links and see 
 * [http://localhost:6543/blog/1/some-slug](http://localhost:6543/blog/1/some-slug) => "View a Blog Record"
 * [http://localhost:6543/blog/create](http://localhost:6543/blog/create) => "Create a New Blog Record"
 * [http://localhost:6543/blog/edit](http://localhost:6543/blog/edit) => "Edit a Blog Record"
-* [http://localhost:6543/sign/in](http://localhost:6543/sign/in) => "Sign In or Out"
+* [http://localhost:6543/sign/in](http://localhost:6543/sign/out) => "Sign In or Out"
 
 Here are some things you might experiment with at this stage:
 
